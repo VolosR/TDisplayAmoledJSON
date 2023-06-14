@@ -36,7 +36,7 @@ unsigned long currTime=0;
 long period=100000;
 
 unsigned long currTime2=0;
-int period2=60000;
+int period2=20000;
 
 String local_ip="";
 String ip="";
